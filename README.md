@@ -141,6 +141,15 @@ AutoGPT:
 
 ## Critical Analysis:
 
+1. Have others disputed the findings?
+   
+Since this is a survey paper and mainly talking about the good potential of the agents,
+we have people arguing that the good potentials are all based on the theoritical part of the agents but this paper does not talk about the empirical experience of using LLM-based agents in specific fields. Further research would be required to understand if and how other experts in the field have responded to this paper, particularly in academic publications or critical reviews.
+
+2. What could have been developed further?
+   
+While the paper touches upon various aspects of AI agents, a more in-depth analysis of how these agents can evolve by combining LLMs with other AI advancements could provide a more comprehensive view of the future potential of these agents. (A lot of current developments but not potential in the future)
+
 ---
 
 ## Video Recording
