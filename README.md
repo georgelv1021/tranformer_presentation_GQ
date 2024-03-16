@@ -14,7 +14,11 @@ This repository serves as a literature review for the 86-page paper "The Rise an
    - [Single-Agent Applications](#single-Agent-Applications)
    - [Coordinating Potential of Multiple Agents](#Coordinating-Potential-of-Multiple-Agents)
    - [Interactive Engagement between Human and Agent](#Interactive-Engagement-between-Human-and-Agent)
-4. [Figure 01]
+4. [Critical Analysis](#critical-analysis)
+5. [Video Recording](#video-recording)
+6. [Citation](#citation)
+7. [Resource](#resource)
+
 
 ---
 ## Overview
@@ -133,6 +137,33 @@ AutoGPT:
 ### Second Question: What difference can you discover based on these two different types of agents?
 
 ## Critical Analysis:
+
+---
+
+## Video Recording
+---
+## Citation
+```
+@misc{xi2023rise,
+      title={The Rise and Potential of Large Language Model Based Agents: A Survey}, 
+      author={Zhiheng Xi and Wenxiang Chen and Xin Guo and Wei He and Yiwen Ding and Boyang Hong and Ming Zhang and Junzhe Wang and Senjie Jin and Enyu Zhou and Rui Zheng and Xiaoran Fan and Xiao Wang and Limao Xiong and Yuhao Zhou and Weiran Wang and Changhao Jiang and Yicheng Zou and Xiangyang Liu and Zhangyue Yin and Shihan Dou and Rongxiang Weng and Wensen Cheng and Qi Zhang and Wenjuan Qin and Yongyan Zheng and Xipeng Qiu and Xuanjing Huang and Tao Gui},
+      year={2023},
+      eprint={2309.07864},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+Contact: 
+- Zhiheng Xi: zhxi22@m.fudan.edu.cn
+---
+## Resource
+- [2023/10] **Lyfe Agents: Generative agents for low-cost real-time social interactions.** *Zhao Kaiya (MIT) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02172)]
+- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org/)]
+- [2023/04] **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency.** *Bo Liu (University of Texas) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.11477)] [[code](https://github.com/Cranial-XIX/llm-pddl)]
+- [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning.** *Noah Shinn (Northeastern University) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.11366)] [[code](https://github.com/noahshinn024/reflexion)]
+- [2023/03] **PaLM-E: An Embodied Multimodal Language Model.** *Danny Driess (Google) et al. ICML.* [[paper](http://proceedings.mlr.press/v202/driess23a/driess23a.pdf)] [[project page](https://palm-e.github.io/)]
+- [2023/03] **ReAct: Synergizing Reasoning and Acting in Language Models.** *Shunyu Yao (Princeton University) et al. ICLR.* [[paper](https://openreview.net/pdf?id=WE_vluYUL-X)] [[project page](https://react-lm.github.io/)]
+- [2022/01] **Chain-of-thought prompting elicits reasoning in large language models.** *Jason Wei (Google) et al. NeurIPS.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)]
 
     
 
