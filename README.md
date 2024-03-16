@@ -14,11 +14,11 @@ This repository serves as a literature review for the 86-page paper "The Rise an
    - [Single-Agent Applications](#single-Agent-Applications)
    - [Coordinating Potential of Multiple Agents](#Coordinating-Potential-of-Multiple-Agents)
    - [Interactive Engagement between Human and Agent](#Interactive-Engagement-between-Human-and-Agent)
-4. [Critical Analysis](#critical-analysis)
-5. [Video Recording](#video-recording)
-6. [Citation](#citation)
-7. [Resource](#resource)
-
+4. [Benefits of LLM for Agents](#Benefits-of-LLM-for-Agents)
+5. [Critical Analysis](#critical-analysis)
+6. [Video Recording](#video-recording)
+7. [Citation](#citation)
+8. [Resource](#resource)
 
 ---
 ## Overview
@@ -29,13 +29,6 @@ This paper delves into the intricacies of LLM-based agents, dissecting their com
 
 ### First Question: What is an agent? How do we define agent in the AI world?
 
----
-## Benefits of LLM for Agents
-
-1. Autonomy: No direct intervention from humans
-2. Reactivity: Ability to respond rapidly to changes
-3. Pro-activeness: Display goal-oriented actions by taking initiative (Reasoning and Planning)
-4. Social ability: Interaction with other agents
 
 ---
 
@@ -106,9 +99,9 @@ Examines the dynamic interactions between humans and agents, highlighting differ
 - **Instructor-Executor Paradigm**: Humans provide instructions or objectives, and agents execute the tasks, leveraging their processing and analysis capabilities. Examples include instructing an agent to curate personalized learning content.
 - **Equal Partnership Paradigm**: Humans and agents collaborate as equals, each contributing unique insights and capabilities. This could involve collaborative creative writing, where the agent and human build on each other's ideas.
 
----
+### Pseudocode
 
-## Pseudocode: Examples of Difference Between Single Agent & Agent-Human based Agents
+Examples of Difference Between Single Agent vs Agent-Human based Agents
 
 GPT-4:
 
@@ -137,6 +130,14 @@ AutoGPT:
     	display(final_output)
 
 ### Second Question: What difference can you discover based on these two different types of agents?
+---
+
+## Benefits of LLM for Agents
+1. Autonomy: No direct intervention from humans
+2. Reactivity: Ability to respond rapidly to changes
+3. Pro-activeness: Display goal-oriented actions by taking initiative (Reasoning and Planning)
+4. Social ability: Interaction with other agents
+---
 
 ## Critical Analysis:
 
@@ -144,6 +145,9 @@ AutoGPT:
 
 ## Video Recording
 ---
+
+
+
 ## Citation
 ```
 @misc{xi2023rise,
