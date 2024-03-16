@@ -36,8 +36,7 @@ This paper delves into the intricacies of LLM-based agents, dissecting their com
 ---
 
 ## The Birth of An Agent
-
-<div align=center><img src="./images/TheBirth.jpg" width="80%" /></div>
+![](../image/TheBirth.jpeg)
 
 ### Brain - The Core
 
@@ -71,15 +70,14 @@ Translates cognitive processes into tangible outcomes, demonstrating the agents'
 
 ---
 
-## Agents in Practice
+## Agents in Practice: Harnessing AI for Good
 
 This section highlights the real-world applications of LLM-based agents, emphasizing their potential to positively impact society through task-oriented, innovation-oriented, and lifecycle-oriented deployments. It also explores the coordinating potential of multiple agents and interactive engagement between humans and agents.
 
 ### Single-Agent Applications
 
 Single-agent scenarios showcase the capabilities of individual LLM-based agents to perform tasks, drive innovation, and adapt through their lifecycle.
-<div align=center><img src="./images/single-agent.jpg" width="80%" /></div>
-
+![](../image/single-agent.jpeg)
 #### Components
 - **Task-oriented Deployment**: Focuses on executing specific tasks efficiently. Examples include customer service bots providing support or virtual assistants managing schedules.
 - **Innovation-oriented Deployment**: Involves leveraging agents to generate new ideas or solutions. This could include brainstorming sessions for product development or creative writing.
@@ -88,9 +86,7 @@ Single-agent scenarios showcase the capabilities of individual LLM-based agents 
 ### Coordinating Potential of Multiple Agents
 
 Discusses how multiple agents can work in concert, either cooperatively or adversarially, to achieve more complex objectives than would be possible individually.
-
-<div align=center><img src="./images/agent-agent.jpeg" width="80%" /></div>
-
+![](../image/agent-agent.jpeg)
 #### Components
 - **Cooperative Interaction for Complementarity**: Multiple agents collaborate, sharing information and resources to accomplish a common goal. An example could be a group of agents coordinating disaster response efforts.
 - **Adversarial Interaction for Advancement**: Agents engage in competitive interactions that drive improvements or innovations. This can be seen in environments where agents simulate market dynamics to test economic theories.
@@ -98,8 +94,7 @@ Discusses how multiple agents can work in concert, either cooperatively or adver
 ### Interactive Engagement between Human and Agent
 
 Examines the dynamic interactions between humans and agents, highlighting different collaboration models and their applications.
-
-<div align=center><img src="./images/human-agent.jpeg" width="80%" /></div>
+![](../image/human-agent.jpeg)
 
 #### Components
 - **Instructor-Executor Paradigm**: Humans provide instructions or objectives, and agents execute the tasks, leveraging their processing and analysis capabilities. Examples include instructing an agent to curate personalized learning content.
