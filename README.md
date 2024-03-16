@@ -1,6 +1,8 @@
-# Discussion of Agents with LLM
+# Exploring the Core of LLM-Based Agents: Background, Construction, and Applications
 
-A presentation regarding the potential of LLM based agents
+This repository serves as a literature review for the 86-page paper "The Rise and Potential of Large Language Model Based Agents: A Survey" by Zhiheng Xi et al.
+
+:link: https://arxiv.org/abs/2309.07864
 
 ## Overview
 
