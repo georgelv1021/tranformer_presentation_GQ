@@ -40,7 +40,7 @@ This paper delves into the intricacies of LLM-based agents, dissecting their com
 ---
 
 ## The Birth of An Agent
-![](../image/TheBirth.jpeg)
+<div align=center><img src="./image/TheBirth.jpeg" width="80%" /></div>
 
 ### Brain - The Core
 
@@ -81,7 +81,8 @@ This section highlights the real-world applications of LLM-based agents, emphasi
 ### Single-Agent Applications
 
 Single-agent scenarios showcase the capabilities of individual LLM-based agents to perform tasks, drive innovation, and adapt through their lifecycle.
-![](../image/single-agent.jpeg)
+<div align=center><img src="./images/single-agent.jpg" width="80%" /></div>
+
 #### Components
 - **Task-oriented Deployment**: Focuses on executing specific tasks efficiently. Examples include customer service bots providing support or virtual assistants managing schedules.
 - **Innovation-oriented Deployment**: Involves leveraging agents to generate new ideas or solutions. This could include brainstorming sessions for product development or creative writing.
@@ -90,7 +91,8 @@ Single-agent scenarios showcase the capabilities of individual LLM-based agents 
 ### Coordinating Potential of Multiple Agents
 
 Discusses how multiple agents can work in concert, either cooperatively or adversarially, to achieve more complex objectives than would be possible individually.
-![](../image/agent-agent.jpeg)
+<div align=center><img src="./images/agent-agent.jpeg" width="80%" /></div>
+
 #### Components
 - **Cooperative Interaction for Complementarity**: Multiple agents collaborate, sharing information and resources to accomplish a common goal. An example could be a group of agents coordinating disaster response efforts.
 - **Adversarial Interaction for Advancement**: Agents engage in competitive interactions that drive improvements or innovations. This can be seen in environments where agents simulate market dynamics to test economic theories.
@@ -98,7 +100,7 @@ Discusses how multiple agents can work in concert, either cooperatively or adver
 ### Interactive Engagement between Human and Agent
 
 Examines the dynamic interactions between humans and agents, highlighting different collaboration models and their applications.
-![](../image/human-agent.jpeg)
+<div align=center><img src="./images/human-agent.jpeg" width="80%" /></div>
 
 #### Components
 - **Instructor-Executor Paradigm**: Humans provide instructions or objectives, and agents execute the tasks, leveraging their processing and analysis capabilities. Examples include instructing an agent to curate personalized learning content.
