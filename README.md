@@ -39,7 +39,7 @@ This paper delves into the intricacies of LLM-based agents, dissecting their com
 
 <div align=center><img src="../image/TheBirth.jpg" width="80%" /></div>
 
-![](../master/image/TheBirth.jpg)
+![birth](/image/TheBirth.jpg)
 
 ### Brain - The Core
 
