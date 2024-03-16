@@ -40,7 +40,7 @@ This paper delves into the intricacies of LLM-based agents, dissecting their com
 ---
 
 ## The Birth of An Agent
-<div align=center><img src="./image/TheBirth.jpeg" width="80%" /></div>
+<div align=center><img src="./images/TheBirth.jpg" width="80%" /></div>
 
 ### Brain - The Core
 
