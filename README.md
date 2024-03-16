@@ -71,7 +71,7 @@ Translates cognitive processes into tangible outcomes, demonstrating the agents'
 
 ---
 
-## Agents in Practice: Harnessing AI for Good
+## Agents in Practice
 
 This section highlights the real-world applications of LLM-based agents, emphasizing their potential to positively impact society through task-oriented, innovation-oriented, and lifecycle-oriented deployments. It also explores the coordinating potential of multiple agents and interactive engagement between humans and agents.
 
