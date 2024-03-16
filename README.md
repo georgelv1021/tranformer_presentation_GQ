@@ -37,7 +37,7 @@ This paper delves into the intricacies of LLM-based agents, dissecting their com
 
 ## The Birth of An Agent
 
-<div align=center><img src="../image/TheBirth.jpg" width="80%" /></div>
+<div align=center><img src="../images/TheBirth.jpg" width="80%" /></div>
 
 ![birth](/images/TheBirth.jpg)
 
