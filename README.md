@@ -16,9 +16,10 @@ This repository serves as a literature review for the 86-page paper "The Rise an
    - [Interactive Engagement between Human and Agent](#Interactive-Engagement-between-Human-and-Agent)
 4. [Benefits of LLM for Agents](#Benefits-of-LLM-for-Agents)
 5. [Critical Analysis](#critical-analysis)
-6. [Video Recording](#video-recording)
-7. [Citation](#citation)
-8. [Resource](#resource)
+6. [AutoGPT Demo](#autogpt-demo)
+7. [Video Recording](#video-recording)
+8. [Citation](#citation)
+9. [Resource](#resource)
 
 ---
 ## Overview
@@ -149,6 +150,10 @@ we have people arguing that the good potentials are all based on the theoritical
 2. What could have been developed further?
    
 While the paper touches upon various aspects of AI agents, a more in-depth analysis of how these agents can evolve by combining LLMs with other AI advancements could provide a more comprehensive view of the future potential of these agents. (A lot of current developments but not potential in the future)
+
+---
+## AutoGPT Demo
+<div align=center><img src="./images/autoGPT.png" width="80%" /></div>
 
 ---
 
