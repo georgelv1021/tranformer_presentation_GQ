@@ -28,7 +28,7 @@ As the modern world progresses towards greater automation, the development of au
 
 This paper delves into the intricacies of LLM-based agents, dissecting their composite elements and examining the various developmental stages and complexities of these sophisticated systems.
 
-### First Question: What is an agent? How do we define agent in the AI world?
+ ### :question: First Question: What is an agent? How do we define agent in the AI world?
 
 
 ---
@@ -69,6 +69,7 @@ Translates cognitive processes into tangible outcomes, demonstrating the agents'
 ---
 
 ## Agents in Practice: Harnessing AI for Good
+<div align=center><img src="./images/AgentInPractice.jpeg" width="80%" /></div>
 
 This section highlights the real-world applications of LLM-based agents, emphasizing their potential to positively impact society through task-oriented, innovation-oriented, and lifecycle-oriented deployments. It also explores the coordinating potential of multiple agents and interactive engagement between humans and agents.
 
@@ -130,7 +131,7 @@ AutoGPT:
     	final_output = perform_task(user_goal)
     	display(final_output)
 
-### Second Question: What difference can you discover based on these two different types of agents?
+### :question: Second Question: What difference can you discover based on these two different types of agents?
 ---
 
 ## Benefits of LLM for Agents
@@ -158,10 +159,10 @@ While the paper touches upon various aspects of AI agents, a more in-depth analy
 ---
 
 ## Video Recording
+
+Links to be added
+
 ---
-
-
-
 ## Citation
 ```
 @misc{xi2023rise,
