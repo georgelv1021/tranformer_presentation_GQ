@@ -17,9 +17,10 @@ This repository serves as a literature review for the 86-page paper "The Rise an
 4. [Benefits of LLM for Agents](#Benefits-of-LLM-for-Agents)
 5. [Critical Analysis](#critical-analysis)
 6. [AutoGPT Demo](#autogpt-demo)
-7. [Video Recording](#video-recording)
-8. [Citation](#citation)
-9. [Resource](#resource)
+7. [The Potential of AGI](#the-potential-of-agi) 
+8. [Video Recording](#video-recording)
+9. [Citation](#citation)
+10. [Resource](#resource)
 
 ---
 ## Overview
@@ -155,6 +156,12 @@ While the paper touches upon various aspects of AI agents, a more in-depth analy
 ---
 ## AutoGPT Demo
 <div align=center><img src="./images/autoGPT.png" width="80%" /></div>
+
+---
+
+## The Potential of AGI
+
+https://www.youtube.com/watch?v=Sq1QZB5baNw
 
 ---
 
